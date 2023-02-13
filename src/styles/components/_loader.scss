@@ -1,0 +1,15 @@
+.loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f4f4f4;
+  .loader-go-gif {
+    img {
+      width: 100px;
+      height: 100px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+  }
+}
